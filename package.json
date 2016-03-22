@@ -1,0 +1,20 @@
+{
+  "name": "mdl-ext-ext",
+  "version": "0.0.0",
+  "description": "Material Design Lite Ext (MDLEXT). Components built with the Google Material Design Lite framework - which also requires some third party libraries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leifoolsen/mdl-ext-ext.git"
+  },
+  "keywords": [],
+  "author": "Leif Olsen (https://github.com/leifoolsen)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/leifoolsen/mdl-ext-ext/issues"
+  },
+  "homepage": "https://github.com/leifoolsen/mdl-ext-ext#readme"
+}
